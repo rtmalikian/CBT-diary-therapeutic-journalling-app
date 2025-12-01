@@ -183,4 +183,17 @@ For emergency support:
 - Crisis Text Line: Text HOME to 741741
 - Emergency Services: 911
 
+## Acknowledgments
 
+This application was inspired by the advocacy and support of several individuals who championed the importance of CBT and self-care: Ms. Downey, Ms. White, and Mr. & Mrs. Paasch from Duluth, Minnesota. Their dedication to mental health awareness and therapeutic techniques has contributed to the development of this tool.
+
+## Medical Disclaimer
+
+**IMPORTANT: This product is not designed to treat, diagnose, or manage any medical problem or psychiatric diagnosis. This application should not be used unless under the approval of a licensed physician or healthcare professional.**
+
+The CBT Diary is intended to supplement professional mental health care, not replace it. If you are experiencing a mental health crisis, please contact a qualified healthcare professional or emergency services immediately.
+
+For emergency support:
+- National Suicide Prevention Lifeline: 988
+- Crisis Text Line: Text HOME to 741741
+- Emergency Services: 911

@@ -45,7 +45,7 @@ The CBT Diary incorporates scientifically researched breathing techniques proven
 - Balances left and right brain hemispheres
 - Enhances cognitive function and mental clarity
 
-Each technique comes with visual guidance to help maintain proper timing and rhythm for maximum therapeutic benefit
+Each technique comes with visual guidance to help maintain proper timing and rhythm for maximum therapeutic benefit.
 - **Progressive Muscle Relaxation (PMR)**: Step-by-step relaxation sessions
 - **Write Then Burn**: Securely write sensitive thoughts that self-destruct with animation
 - **Mood Tracking**: Track and visualize your emotional patterns over time
@@ -141,7 +141,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 For support, create an issue in the repository or contact [support-email].
 
-## Evidence-Based Breathing Patterns
+## Additional Information on Evidence-Based Breathing Patterns
 
 The CBT Diary incorporates scientifically researched breathing techniques proven to reduce anxiety, improve focus, and promote emotional regulation:
 
